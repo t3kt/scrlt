@@ -1,0 +1,16 @@
+max v2;
+#N vpatcher 15 55 615 455;
+#P toggle 268 260 15 0;
+#P toggle 229 103 15 0;
+#P user pictctrl 292 155 50 50 scrlt.toggle.png 0 0 0 1 91 0 0 0 50 50 128 0 1 10 2 1 1 270;
+#P user panel 324 72 128 128;
+#X brgb 191 191 191;
+#X frgb 0 0 0;
+#X border 1;
+#X rounded 0;
+#X shadow 0;
+#X done;
+#P background;
+#P connect 1 0 3 0;
+#P connect 2 0 1 0;
+#P pop;
