@@ -1,0 +1,11 @@
+max v2;
+#N vpatcher 721 433 1321 833;
+#P outlet 24 105 15 0;
+#P window setfont "Sans Serif" 9.;
+#P newex 24 77 26 9109513 _ $3;
+#P newex 24 55 82 9109513 scale 0 127 $1 $2;
+#P inlet 24 33 15 0;
+#P connect 0 0 1 0;
+#P connect 1 0 2 0;
+#P connect 2 0 3 0;
+#P pop;
