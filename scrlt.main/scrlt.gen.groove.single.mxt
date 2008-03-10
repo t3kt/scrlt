@@ -32,7 +32,7 @@ max v2;
 #P hidden newex 536 84 58 9109513 s $0.gv.in.0;
 #P hidden newex 536 106 99 9109513 loadmess loopinterp 1;
 #P hidden newex 536 128 58 9109513 s $0.gv.in.0;
-#P bpatcher 6 123 19 38 0 0 scrlt.wfmodesel.mxt 4;
+#P bpatcher 6 123 19 38 0 0 scrlt.util.wfmodesel.mxt 4;
 #P hidden newex 256 199 71 9109513 s~ $0.gv.in.0.s;
 #P hidden newex 109 275 69 9109513 r~ $0.gv.in.0.s;
 #P hidden newex 256 149 27 9109513 + 1;
