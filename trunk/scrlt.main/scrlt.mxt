@@ -1,5 +1,5 @@
 max v2;
-#N vpatcher 243 276 919 769;
+#N vpatcher 330 51 1006 544;
 #P window setfont "Sans Serif" 9.;
 #P window linecount 1;
 #P hidden newex 13 280 41 9109513 pcontrol;
@@ -64,7 +64,7 @@ max v2;
 #X client_rect 5 40 557 840;
 #X clientlist_colwidth 220;
 #X storage_rect 0 0 640 240;
-#P objectname u518000001;
+#P objectname u434000002;
 #P toggle 71 132 17 0;
 #P toggle 71 110 17 0;
 #P window setfont "Sans Serif" 12.;
