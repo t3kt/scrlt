@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" xmlns:ns1="scrlt.*">
+	<mx:VSlider x="203" y="227" width="31" height="151" liveDragging="true"/>
+	<ns1:ScrltVSlider x="426" y="357" width="20" height="100"/>
+</mx:Application>
