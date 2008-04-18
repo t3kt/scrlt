@@ -1,5 +1,1398 @@
 <?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
 
-<pattrstorage name = "u518000001">
+<pattrstorage name = "u339000005">
+	<slot number = "1">
+		<patcher name = "midi.bcr.mapper">
+			<patcher name = "map.8">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.7">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.6">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.5">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.4">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.3">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.2">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.1">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.9">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.10">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.11">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.12">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.13">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.14">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.15">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.16">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.17">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.18">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.19">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.20">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.21">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.22">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.23">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.24">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.25">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.26">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.27">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.28">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.29">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.30">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.31">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.32">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.33">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.34">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.35">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.36">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.37">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.38">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.39">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.40">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.41">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.42">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.43">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.44">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.45">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.46">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.47">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.48">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.49">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.50">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.51">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.52">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.53">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.54">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.55">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.56">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.57">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.58">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.59">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.60">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.61">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.62">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.63">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.64">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.65">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.66">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.67">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.68">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.69">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.70">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.71">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.72">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.73">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.74">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.75">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.76">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.77">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.78">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.79">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.80">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.81">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.82">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.83">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.84">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.85">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.86">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.87">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.88">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.89">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "freq" />
+				<pattr name = "dev" value = "rack.track.2.fx.1" />
+			</patcher>
+			<patcher name = "map.90">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "lvl" />
+				<pattr name = "dev" value = "mixer.chan.2" />
+			</patcher>
+			<patcher name = "map.91">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.92">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.93">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.94">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.95">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.96">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.97">
+				<pattr name = "func" value = "1" />
+				<pattr name = "par" value = "rate" />
+				<pattr name = "dev" value = "rack.track.3.gen" />
+			</patcher>
+			<patcher name = "map.98">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "lvl" />
+				<pattr name = "dev" value = "mixer.chan.3" />
+			</patcher>
+			<patcher name = "map.99">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "sel.start" />
+				<pattr name = "dev" value = "rack.track.3.gen" />
+			</patcher>
+			<patcher name = "map.100">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "sel.end" />
+				<pattr name = "dev" value = "rack.track.3.gen" />
+			</patcher>
+			<patcher name = "map.101">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.102">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.103">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.104">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.105">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.106">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.107">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+			<patcher name = "map.108">
+				<pattr name = "func" value = "0" />
+				<pattr name = "par" value = "----" />
+				<pattr name = "dev" value = "----" />
+			</patcher>
+		</patcher>
+		<patcher name = "midi.bcr">
+			<patcher name = "node.108">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.107">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.106">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.105">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<pattr name = "dev.in" value = "27" />
+			<pattr name = "dev.out" value = "1" />
+			<patcher name = "top">
+				<patcher name = "node.64">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.63">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.62">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.61">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.60">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.59">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.58">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.57">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.32">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.31">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.30">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.29">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.28">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.27">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.26">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.25">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.24">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.23">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.22">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.21">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.20">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.19">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.18">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.17">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.56">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.55">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.54">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.53">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.52">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.51">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.50">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.49">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.48">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.47">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.46">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.45">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.44">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.43">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.42">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.41">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.16">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.15">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.14">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.13">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.12">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.11">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.10">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.9">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.40">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.39">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.38">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.37">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.36">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.35">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.34">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.33">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.8">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.7">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.6">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.5">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.4">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.3">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.2">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+				<patcher name = "node.1">
+					<pattr name = "tgt" value = "0" />
+					<pattr name = "val" value = "0" />
+				</patcher>
+			</patcher>
+			<patcher name = "node.80">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.79">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.78">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.77">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.76">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.75">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.74">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.73">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.72">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.71">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.70">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.69">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.68">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.67">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.66">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.65">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.104">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.103">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.102">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.101">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.100">
+				<pattr name = "tgt" value = "scrlt.rack.track.3.gen.sel.end" />
+				<pattr name = "val" value = "61" />
+			</patcher>
+			<patcher name = "node.99">
+				<pattr name = "tgt" value = "scrlt.rack.track.3.gen.sel.start" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.98">
+				<pattr name = "tgt" value = "scrlt.mixer.chan.3.lvl" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.97">
+				<pattr name = "tgt" value = "scrlt.rack.track.3.gen.rate.vf.pos" />
+				<pattr name = "val" value = "63" />
+			</patcher>
+			<patcher name = "node.88">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.87">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.86">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.85">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.84">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.83">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.82">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.81">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.96">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.95">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.94">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.93">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.92">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.91">
+				<pattr name = "tgt" value = "0" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.90">
+				<pattr name = "tgt" value = "scrlt.mixer.chan.2.lvl" />
+				<pattr name = "val" value = "0" />
+			</patcher>
+			<patcher name = "node.89">
+				<pattr name = "tgt" value = "scrlt.rack.track.2.fx.1.freq" />
+				<pattr name = "val" value = "65" />
+			</patcher>
+		</patcher>
+		<patcher name = "mixer">
+			<patcher name = "chan.5">
+				<pattr name = "mute" value = "0" />
+				<pattr name = "lvl" value = "0 122" />
+				<pattr name = "mon" value = "0" />
+				<pattr name = "aux.prefade" value = "0" />
+				<pattr name = "aux.1" value = "2" />
+				<pattr name = "aux.0" value = "0" />
+			</patcher>
+			<patcher name = "chan.4">
+				<pattr name = "mute" value = "0" />
+				<pattr name = "lvl" value = "0 122" />
+				<pattr name = "mon" value = "0" />
+				<pattr name = "aux.prefade" value = "0" />
+				<pattr name = "aux.1" value = "2" />
+				<pattr name = "aux.0" value = "0" />
+			</patcher>
+			<patcher name = "aux.1">
+				<pattr name = "aux.1" value = "0" />
+				<pattr name = "lvl" value = "0" />
+				<pattr name = "mute" value = "0" />
+				<pattr name = "mon" value = "0" />
+			</patcher>
+			<patcher name = "chan.3">
+				<pattr name = "mute" value = "0" />
+				<pattr name = "lvl" value = "0 122" />
+				<pattr name = "mon" value = "0" />
+				<pattr name = "aux.prefade" value = "0" />
+				<pattr name = "aux.1" value = "2" />
+				<pattr name = "aux.0" value = "0" />
+			</patcher>
+			<patcher name = "chan.2">
+				<pattr name = "mute" value = "0" />
+				<pattr name = "lvl" value = "0 122" />
+				<pattr name = "mon" value = "0" />
+				<pattr name = "aux.prefade" value = "0" />
+				<pattr name = "aux.1" value = "2" />
+				<pattr name = "aux.0" value = "0" />
+			</patcher>
+			<patcher name = "master">
+				<pattr name = "lvl" value = "0" />
+				<pattr name = "mute" value = "0" />
+				<pattr name = "mon" value = "0" />
+			</patcher>
+			<patcher name = "aux.0">
+				<pattr name = "aux.1" value = "0" />
+				<pattr name = "lvl" value = "0" />
+				<pattr name = "mute" value = "0" />
+				<pattr name = "mon" value = "0" />
+			</patcher>
+			<patcher name = "chan.1">
+				<pattr name = "mute" value = "0" />
+				<pattr name = "lvl" value = "0 122" />
+				<pattr name = "mon" value = "0" />
+				<pattr name = "aux.prefade" value = "0" />
+				<pattr name = "aux.1" value = "2" />
+				<pattr name = "aux.0" value = "0" />
+			</patcher>
+			<patcher name = "chan.0">
+				<pattr name = "mute" value = "0" />
+				<pattr name = "lvl" value = "0 122" />
+				<pattr name = "mon" value = "0" />
+				<pattr name = "aux.prefade" value = "0" />
+				<pattr name = "aux.1" value = "2" />
+				<pattr name = "aux.0" value = "0" />
+			</patcher>
+		</patcher>
+		<patcher name = "rack">
+			<patcher name = "track.5">
+				<patcher name = "fx.1">
+					<pattr name = "gainmode" value = "0" />
+					<pattr name = "mode" value = "0" />
+					<pattr name = "gain" value = "36" />
+					<pattr name = "freq" value = "65" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+					<pattr name = "res" value = "4" />
+				</patcher>
+				<patcher name = "fx.0">
+					<pattr name = "gainbw" value = "0" />
+					<pattr name = "pitchbw" value = "0" />
+					<pattr name = "pitchm" value = "0" />
+					<pattr name = "lenmax" value = "98" />
+					<pattr name = "lenmin" value = "46" />
+					<pattr name = "freqbw" value = "0" />
+					<pattr name = "freq" value = "0" />
+					<pattr name = "offbw" value = "0" />
+					<pattr name = "bufsize" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "gen">
+					<patcher name = "sample">
+						<pattr name = "sample" value = "&quot;03 [C1] Resonanc.wav&quot;" />
+					</patcher>
+					<pattr name = "on" value = "0" />
+					<pattr name = "rate" value = "0." />
+					<pattr name = "sel.end" value = "6480.181641" />
+					<pattr name = "sel.start" value = "0." />
+					<pattr name = "disp.len" value = "13275.193359" />
+					<pattr name = "disp.start" value = "0." />
+				</patcher>
+			</patcher>
+			<patcher name = "track.4">
+				<patcher name = "fx.1">
+					<pattr name = "gainmode" value = "0" />
+					<pattr name = "mode" value = "0" />
+					<pattr name = "gain" value = "36" />
+					<pattr name = "freq" value = "65" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+					<pattr name = "res" value = "4" />
+				</patcher>
+				<patcher name = "fx.0">
+					<pattr name = "wrdsize" value = "54" />
+					<pattr name = "smprate" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "gen">
+					<patcher name = "sample">
+						<pattr name = "sample" value = "&quot;03 [C1] Resonanc.wav&quot;" />
+					</patcher>
+					<pattr name = "on" value = "0" />
+					<pattr name = "rate" value = "0." />
+					<pattr name = "sel.end" value = "6480.181641" />
+					<pattr name = "sel.start" value = "0." />
+					<pattr name = "disp.len" value = "13275.193359" />
+					<pattr name = "disp.start" value = "0." />
+				</patcher>
+			</patcher>
+			<patcher name = "aux.1">
+				<pattr name = "fbk" value = "0" />
+				<patcher name = "fx.2">
+					<pattr name = "fbk" value = "0" />
+					<pattr name = "div" value = "6" />
+					<pattr name = "msmode" value = "0" />
+					<pattr name = "lenms" value = "0" />
+					<pattr name = "len" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "fx.1">
+					<pattr name = "gainbw" value = "0" />
+					<pattr name = "pitchbw" value = "0" />
+					<pattr name = "pitchm" value = "0" />
+					<pattr name = "lenmax" value = "98" />
+					<pattr name = "lenmin" value = "46" />
+					<pattr name = "freqbw" value = "0" />
+					<pattr name = "freq" value = "0" />
+					<pattr name = "offbw" value = "0" />
+					<pattr name = "bufsize" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "fx.0">
+					<pattr name = "gainmode" value = "0" />
+					<pattr name = "mode" value = "0" />
+					<pattr name = "gain" value = "36" />
+					<pattr name = "freq" value = "65" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+					<pattr name = "res" value = "4" />
+				</patcher>
+			</patcher>
+			<patcher name = "aux.0">
+				<pattr name = "fbk" value = "0" />
+				<patcher name = "fx.2">
+					<pattr name = "fbk" value = "0" />
+					<pattr name = "div" value = "6" />
+					<pattr name = "msmode" value = "0" />
+					<pattr name = "lenms" value = "0" />
+					<pattr name = "len" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "fx.1">
+					<pattr name = "wrdsize" value = "54" />
+					<pattr name = "smprate" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "fx.0">
+					<pattr name = "gainmode" value = "0" />
+					<pattr name = "mode" value = "0" />
+					<pattr name = "gain" value = "36" />
+					<pattr name = "freq" value = "65" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+					<pattr name = "res" value = "4" />
+				</patcher>
+			</patcher>
+			<patcher name = "track.3">
+				<patcher name = "fx.1">
+					<pattr name = "gainmode" value = "0" />
+					<pattr name = "mode" value = "0" />
+					<pattr name = "gain" value = "36" />
+					<pattr name = "freq" value = "65" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+					<pattr name = "res" value = "4" />
+				</patcher>
+				<patcher name = "fx.0">
+					<pattr name = "gainbw" value = "0" />
+					<pattr name = "pitchbw" value = "0" />
+					<pattr name = "pitchm" value = "0" />
+					<pattr name = "lenmax" value = "98" />
+					<pattr name = "lenmin" value = "46" />
+					<pattr name = "freqbw" value = "0" />
+					<pattr name = "freq" value = "0" />
+					<pattr name = "offbw" value = "0" />
+					<pattr name = "bufsize" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "gen">
+					<patcher name = "sample">
+						<pattr name = "sample" value = "&quot;03 [C1] Resonanc.wav&quot;" />
+					</patcher>
+					<pattr name = "on" value = "0" />
+					<pattr name = "rate" value = "0." />
+					<pattr name = "sel.end" value = "6480.181641" />
+					<pattr name = "sel.start" value = "0." />
+					<pattr name = "disp.len" value = "13275.193359" />
+					<pattr name = "disp.start" value = "0." />
+				</patcher>
+			</patcher>
+			<patcher name = "track.2">
+				<patcher name = "fx.1">
+					<pattr name = "gainmode" value = "0" />
+					<pattr name = "mode" value = "0" />
+					<pattr name = "gain" value = "36" />
+					<pattr name = "freq" value = "65" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+					<pattr name = "res" value = "4" />
+				</patcher>
+				<patcher name = "fx.0">
+					<pattr name = "wrdsize" value = "54" />
+					<pattr name = "smprate" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "gen">
+					<patcher name = "sample">
+						<pattr name = "sample" value = "&quot;03 [C1] Resonanc.wav&quot;" />
+					</patcher>
+					<pattr name = "on" value = "0" />
+					<pattr name = "rate" value = "0." />
+					<pattr name = "sel.end" value = "6480.181641" />
+					<pattr name = "sel.start" value = "0." />
+					<pattr name = "disp.len" value = "13275.193359" />
+					<pattr name = "disp.start" value = "0." />
+				</patcher>
+			</patcher>
+			<patcher name = "track.1">
+				<patcher name = "fx.1">
+					<pattr name = "gainmode" value = "0" />
+					<pattr name = "mode" value = "0" />
+					<pattr name = "gain" value = "36" />
+					<pattr name = "freq" value = "65" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+					<pattr name = "res" value = "4" />
+				</patcher>
+				<patcher name = "fx.0">
+					<pattr name = "gainbw" value = "0" />
+					<pattr name = "pitchbw" value = "0" />
+					<pattr name = "pitchm" value = "0" />
+					<pattr name = "lenmax" value = "98" />
+					<pattr name = "lenmin" value = "46" />
+					<pattr name = "freqbw" value = "0" />
+					<pattr name = "freq" value = "0" />
+					<pattr name = "offbw" value = "0" />
+					<pattr name = "bufsize" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "gen">
+					<patcher name = "sample">
+						<pattr name = "sample" value = "&quot;03 [C1] Resonanc.wav&quot;" />
+					</patcher>
+					<pattr name = "pmult" value = "0." />
+					<pattr name = "glen" value = "0.08" />
+					<pattr name = "begin" value = "0." />
+					<pattr name = "rev" value = "0" />
+					<pattr name = "on" value = "0" />
+					<pattr name = "tfreq" value = "0" />
+				</patcher>
+			</patcher>
+			<patcher name = "track.0">
+				<patcher name = "fx.1">
+					<pattr name = "gainmode" value = "0" />
+					<pattr name = "mode" value = "0" />
+					<pattr name = "gain" value = "36" />
+					<pattr name = "freq" value = "65" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+					<pattr name = "res" value = "4" />
+				</patcher>
+				<patcher name = "fx.0">
+					<pattr name = "wrdsize" value = "54" />
+					<pattr name = "smprate" value = "0" />
+					<pattr name = "drywet" value = "0" />
+					<pattr name = "bypass" value = "0" />
+				</patcher>
+				<patcher name = "gen">
+					<patcher name = "sample">
+						<pattr name = "sample" value = "&quot;03 [C1] Resonanc.wav&quot;" />
+					</patcher>
+					<pattr name = "pmult" value = "0." />
+					<pattr name = "glen" value = "0.08" />
+					<pattr name = "begin" value = "0." />
+					<pattr name = "rev" value = "0" />
+					<pattr name = "on" value = "0" />
+					<pattr name = "tfreq" value = "0" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "midi.bcr.vfunc.rack">
+			<patcher name = "node.00">
+				<pattr name = "dev" value = "rack.track.3.gen" />
+				<pattr name = "func" value = "127 127 127 127 127 127 127 127 127 123 119 115 111 107 103 99 28 28 28 28 28 28 28 127 127 65 87 90 93 127 127 127 127 127 71 37 40 43 46 48 93 124 44 37 31 28 28 28 102 105 110 115 121 121 119 116 114 111 109 106 104 101 99 96 90 127 127 127 127 127 127 127 127 127 127 127 127 127 127 127 127 127 127 0 0 0 0 0 0 0 0 0 0 0 66 68 69 70 71 73 74 75 77 78 79 81 82 83 85 86 87 89 90 91 92 93 95 96 97 98 99 100 102 103 104 105 127" />
+				<pattr name = "par" value = "rate" />
+			</patcher>
+			<patcher name = "node.01">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.02">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.03">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.04">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.05">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.06">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.07">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.08">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.09">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.10">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.11">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.12">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.13">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.14">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.15">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.16">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+			<patcher name = "node.17">
+				<pattr name = "dev" value = "----" />
+				<pattr name = "func" value = "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
+				<pattr name = "par" value = "----" />
+			</patcher>
+		</patcher>
+	</slot>
 </pattrstorage>
 
