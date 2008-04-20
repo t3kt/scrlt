@@ -6,7 +6,7 @@ max v2;
 #P user meter~ 280 270 310 396 50 0 168 0 103 103 103 255 153 0 255 0 0 217 217 0 153 186 0 12 3 3 3 3;
 #P user meter~ 36 390 231 405 50 0 168 0 103 103 103 255 153 0 255 0 0 217 217 0 153 186 0 12 3 3 3 3;
 #P user meter~ 39 227 234 242 50 0 168 0 103 103 103 255 153 0 255 0 0 217 217 0 153 186 0 12 3 3 3 3;
-#P bpatcher 19 37 250 184 0 0 scrlt.gen.gbang.single.mxt 4 scrlt.rack.track.0.gen;
+#P bpatcher 19 37 250 184 0 0 scrlt.gen.groove.single.mxt 4 scrlt.rack.track.0.gen;
 #P objectname gen;
 #P bpatcher 19 250 250 134 0 0 scrlt.fx.delay.mxt 4;
 #P objectname fx.2;
