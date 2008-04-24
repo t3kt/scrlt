@@ -1,0 +1,7 @@
+things that need to be done:
+
+
+* bcr parameter send-back for the new center/length groove parameters
+* time-blending for parameter changes
+* fix pattr sample selection problems
+
