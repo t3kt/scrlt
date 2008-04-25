@@ -2,5 +2,5 @@ things that need to be done:
 
 
 * bcr parameter send-back for the new center/length groove parameters
-* fix pattr sample selection problems
+* midi control over vfunc seq & on/off
 
