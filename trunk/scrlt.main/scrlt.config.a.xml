@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
 
-<pattrstorage name = "u518000001">
+<pattrstorage name = "u197000004">
 	<slot number = "1">
+		<pattr name = "fade.grain" value = "2." />
+		<pattr name = "fade.on" value = "0" />
+		<pattr name = "fade.time" value = "0." />
 		<patcher name = "rack">
 			<patcher name = "track.0">
 				<patcher name = "gen">
-					<pattr name = "begin" value = "0." />
-					<pattr name = "glen" value = "0.08" />
+					<pattr name = "begin" value = "8." />
+					<pattr name = "glen" value = "32." />
 					<pattr name = "on" value = "0" />
-					<pattr name = "pmult" value = "0." />
+					<pattr name = "pmult" value = "0.87" />
 					<pattr name = "rev" value = "0" />
-					<pattr name = "tfreq" value = "0" />
+					<pattr name = "tfreq" value = "58" />
 					<patcher name = "sample">
-						<pattr name = "sample" value = "&quot;03 [C1] Resonanc.wav&quot;" />
+						<pattr name = "sample" value = "Intro.04.wav" />
 					</patcher>
 				</patcher>
 				<patcher name = "fx.0">
@@ -98,10 +101,10 @@
 				<patcher name = "gen">
 					<pattr name = "on" value = "0" />
 					<pattr name = "rate" value = "0.326531" />
-					<pattr name = "sel.center" value = "4900.122559" />
-					<pattr name = "sel.end" value = "5440.798828" />
-					<pattr name = "sel.length" value = "1081.352539" />
-					<pattr name = "sel.start" value = "4359.446289" />
+					<pattr name = "sel.center" value = "4900.113281" />
+					<pattr name = "sel.end" value = "5440.793945" />
+					<pattr name = "sel.length" value = "1081.36084" />
+					<pattr name = "sel.start" value = "4359.433105" />
 					<patcher name = "sample">
 						<pattr name = "sample" value = "Cryptorchid.02.wav" />
 					</patcher>
