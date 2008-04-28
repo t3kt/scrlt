@@ -1,0 +1,49 @@
+body {
+	color: #336699;
+	background-color: #001133;
+	font-family: "Times New Roman", Times, serif;
+}
+#titleLayer {
+	border: 2px solid #336699;
+	font-size: 36px;
+	position: absolute;
+	z-index:1;
+	padding-left: 10px;
+	width: 200px;
+	height: 50px;
+	left: 10px;
+	top: 10px;
+}
+#navLayer {
+	border: 2px solid #336699;
+	position: absolute;
+	z-index:1;
+	padding-left: 10px;
+	width: 200px;
+	height: 600px;
+	left: 10px;
+	top: 70px;
+	padding-top: 10px;
+}
+#contentLayer {
+	border: 2px solid #336699;
+	position: absolute;
+	z-index:1;
+	padding-left: 10px;
+	width: 800px;
+	height: auto;
+	left: 230px;
+	top: 70px;
+	padding-top: 10px;
+}
+#pageTitleLayer {
+	border: 2px solid #336699;
+	font-size: 36px;
+	position: absolute;
+	z-index:1;
+	padding-left: 10px;
+	width: 800px;
+	height: 50px;
+	left: 230px;
+	top: 10px;
+}
