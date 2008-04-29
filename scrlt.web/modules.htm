@@ -21,120 +21,270 @@
 	<p>The scrlt patch is organized into a hierarchy of modules. The module descriptions here are organized by type of module, as opposed to the actual patch layout (which patch contains instances of another patch, etc).</p>
 	<table width="100%" border="0">
 		<tr>
-			<td width="200">scrlt</td>
-			<td>&nbsp;</td>
+			<th colspan="2">root module</th>
 		</tr>
 		<tr>
-			<td>scrlt.trans</td>
-			<td>&nbsp;</td>
+			<td width="240">scrlt</td>
+			<td width="550">the root patch, which handles config saving/loading and window management</td>
 		</tr>
 		<tr>
-			<td>scrlt.rack</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.rack.aux.0</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.rack.aux.1</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.rack.track.0</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.rack.track.1</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.rack.track.2</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.rack.track.3</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.rack.track.4</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.rack.track.5</td>
-			<td>&nbsp;</td>
+			<th colspan="2">audio devices</th>
 		</tr>
 		<tr>
 			<td>scrlt.gen.gbang.single</td>
-			<td>&nbsp;</td>
+			<td>a sample grain generator module based on the grain.bang~ object (granular toolkit)</td>
 		</tr>
 		<tr>
 			<td>scrlt.gen.groove.single</td>
-			<td>&nbsp;</td>
+			<td>a sample looping generator module based on the groove~ object, which uses a waveform~ object as a display</td>
 		</tr>
 		<tr>
 			<td>scrlt.gen.merge</td>
-			<td>&nbsp;</td>
+			<td>a generator module of sorts, which merges two other audio streams (from other devices) using a selected mathematical operation (scrapped)</td>
 		</tr>
 		<tr>
 			<td>scrlt.fx.cloud</td>
-			<td>&nbsp;</td>
+			<td>an effect module based on the granular cloud distribution object, grain.cloud.live~ (granular toolkit)</td>
 		</tr>
 		<tr>
 			<td>scrlt.fx.degrade</td>
-			<td>&nbsp;</td>
+			<td>a signal degradation and bit-reduction effect module based on the degrade~ object</td>
 		</tr>
 		<tr>
 			<td>scrlt.fx.delay</td>
-			<td>&nbsp;</td>
+			<td>a delay effect module with feedback, using the tapin~ and tapout~ objects</td>
 		</tr>
 		<tr>
 			<td>scrlt.fx.filter</td>
-			<td>&nbsp;</td>
+			<td>a filter effect module with lowpass, highpass, bandpass, and bandstop modes, based on the biquad~ object, using a filtergraph~ object as a display</td>
+		</tr>
+		<tr>
+			<th colspan="2">device rack</th>
+		</tr>
+		<tr>
+			<td>scrlt.rack</td>
+			<td>the device rack root module, which contains instances of all tracks and auxilliary sends, and handles window management for them</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.track.0</td>
+			<td>the first device track, which contains, in sequence, scrlt.gen.gbang.single, scrlt.fx.degrade, and scrlt.fx.filter</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.track.1</td>
+			<td>the second device track, which contains, in sequence, scrlt.gen.gbang.single, scrlt.fx.cloud, and scrlt.fx.filter</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.track.2</td>
+			<td>the third device track, which contains, in sequence, scrlt.gen.groove.single, scrlt.fx.degrade, and scrlt.fx.filter</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.track.3</td>
+			<td>the fourth device track, which contains, in sequence, scrlt.gen.groove.single, scrlt.fx.cloud, and scrlt.fx.filter</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.track.4</td>
+			<td>the fifth device track, which contains, in sequence, scrlt.gen.groove.single, scrlt.fx.degrade, and scrlt.fx.filter</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.track.5</td>
+			<td>the sixth device track, which contains, in sequence, scrlt.gen.groove.single, scrlt.fx.cloud, and scrlt.fx.filter</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.aux.0</td>
+			<td>the first auxilliary send track, which contains, in sequence, scrlt.fx.delay, scrlt.fx.degrade, and scrlt.fx.filter</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.aux.1</td>
+			<td>the second auxilliary send track, which contains, in sequence, scrlt.fx.delay, scrlt.fx.cloud, and scrlt.fx.filter</td>
+		</tr>
+		<tr>
+			<th colspan="2">mixer</th>
 		</tr>
 		<tr>
 			<td>scrlt.mixer</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>scrlt.mixer.aux</td>
-			<td>&nbsp;</td>
+			<td>the track mixer and output module</td>
 		</tr>
 		<tr>
 			<td>scrlt.mixer.chan</td>
-			<td>&nbsp;</td>
+			<td>a mixer channel for a device track</td>
 		</tr>
 		<tr>
-			<td>scrlt.mixer.io</td>
-			<td>&nbsp;</td>
+			<td>scrlt.mixer.aux</td>
+			<td>a mixer channel for an auxilliary send</td>
 		</tr>
 		<tr>
 			<td>scrlt.mixer.master</td>
-			<td>&nbsp;</td>
+			<td>the mixer's master level controls</td>
+		</tr>
+		<tr>
+			<td>scrlt.mixer.io</td>
+			<td>output audio device selector</td>
+		</tr>
+		<tr>
+			<th colspan="2">main bcr2000 midi modules</th>
 		</tr>
 		<tr>
 			<td>scrlt.midi.bcr</td>
-			<td>&nbsp;</td>
+			<td>a module which mirrors the state of the bcr2000 controller, and handles communication with it</td>
+		</tr>
+		<tr>
+			<td>scrlt.midi.bcr.knob</td>
+			<td>a knob control that mirrors a knob on the bcr2000 controller</td>
+		</tr>
+		<tr>
+			<td>scrlt.midi.bcr.toggle</td>
+			<td>a toggle control that mirrors a toggle on the bcr2000 controller</td>
 		</tr>
 		<tr>
 			<td>scrlt.midi.bcr.top</td>
-			<td>&nbsp;</td>
+			<td>a set of knob and toggle controls representing the top segment of the bcr2000 controller, handling the selection of virtual control groups</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>scrlt.midi.bcr.mapper</td>
+			<td>a module which allows bcr2000 controls to be linked to device parameters</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<th colspan="2">bcr2000 midi value functions and sequencers</th>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>scrlt.midi.bcr.vfunc.rack</td>
+			<td>the root module of the value function and sequencer system</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>scrlt.midi.bcr.vfunc.node.knob.draw</td>
+			<td>a module that uses a multislider object to serve as either a parameter sequencer, or a midi control translation function</td>
+		</tr>
+		<tr>
+			<td>scrlt.midi.bcr.vfunc.node.knob.func</td>
+			<td>a module that uses a function object to serve as either a parameter sequencer, or a midi control translation function</td>
+		</tr>
+		<tr>
+			<td>scrlt.trans</td>
+			<td>the transport control and display module</td>
+		</tr>
+		<tr>
+			<th colspan="2">midi target choosers</th>
+		</tr>
+		<tr>
+			<td>scrlt.targets.chooser.knob</td>
+			<td>a module used to select parameter targets for knob-type controls</td>
+		</tr>
+		<tr>
+			<td>scrlt.targets.chooser.toggle</td>
+			<td>a module used to select parameter targets for toggle-type controls</td>
+		</tr>
+		<tr>
+			<th colspan="2">miscellaneous utilities</th>
+		</tr>
+		<tr>
+			<td>scrlt.util.0or1</td>
+			<td>a module that outputs 0 if it receives a 0, and 1 if it receives any other value</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.0or127</td>
+			<td>a module that outputs 0 if it receives a 0, and 127 if it receives any other value</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.CLtoSE</td>
+			<td>a module that converts from sample loop center offset and length to start offset and end offset</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.SEtoCL</td>
+			<td>a module that converts from sample loop start offset and end offset to center offset and length</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.bcrfwd</td>
+			<td>a module that forwards a parameter value back to a linked control on the bcr2000</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.dwbp</td>
+			<td>a module that handles effect dry/wet balancing and bypass</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.gvratescale</td>
+			<td>a module that converts from a midi value range (0 to 127) to a playback rate for the groove~ object</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.gvrateunscale</td>
+			<td>a module that converts from a playback rate for the groove~ object to a midi value range (0 to 127)</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.octshift</td>
+			<td>a module that shifts an input midi note by some number of octaves</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.op~</td>
+			<td>a module that takes two input streams and applies a selected mathematical operation to them and outputs the result</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.samplechooser</td>
+			<td>a module that handles the selection of a sample file from the samples folder</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.scaleprepend</td>
+			<td>a module that scales a value and prepends another value</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.valfade</td>
+			<td>a module that handles input parameter value time-smoothing, using the global fade parameters set in the root module</td>
+		</tr>
+		<tr>
+			<td>scrlt.util.wfmodesel</td>
+			<td>a module that selects an edit mode for the waveform~ object</td>
+		</tr>
+		<tr>
+			<th colspan="2">pcr30 midi modules (scrapped)</th>
+		</tr>
+		<tr>
+			<td>scrlt.midi.pcr</td>
+			<td>a module that mirrors the state of the pcr30 controller (scrapped and incomplete)</td>
+		</tr>
+		<tr>
+			<td>scrlt.midi.pcr.kbd</td>
+			<td>a module that displays a keyboard object within a specific range, and displays notes hit and which key segment they are in (scrapped)</td>
+		</tr>
+		<tr>
+			<td>scrlt.midi.pcr.octave</td>
+			<td>a module that selects and stores an octave number (scrapped)</td>
+		</tr>
+		<tr>
+			<th colspan="2">testing and debugging modules</th>
+		</tr>
+		<tr>
+			<td>scrlt.debug</td>
+			<td>the root debugging module, which contains displays for many of the send/receives used, as well as max window output support</td>
+		</tr>
+		<tr>
+			<td>scrlt.debug.item</td>
+			<td>a module that displays the activity of a send/receive</td>
+		</tr>
+		<tr>
+			<td>scrlt.fx.delay.tester</td>
+			<td>a tester module for the scrlt.fx.delay effect module</td>
+		</tr>
+		<tr>
+			<td>scrlt.gen.gbang.single.tester</td>
+			<td>a tester module for the scrlt.gen.gbang.single generator module</td>
+		</tr>
+		<tr>
+			<td>scrlt.gen.groove.single.tester</td>
+			<td>a tester module for the scrlt.gen.groove.single generator module</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.track.0.tester</td>
+			<td>a tester module for the first device rack module</td>
+		</tr>
+		<tr>
+			<td>scrlt.rack.track.4.tester</td>
+			<td>a tester module for the fifth device rack module</td>
+		</tr>
+		<tr>
+			<td>scrlt.knob.tester</td>
+			<td>a tester for the custom knob graphics</td>
+		</tr>
+		<tr>
+			<td>scrlt.toggle.tester</td>
+			<td>a tester for the custom toggle graphics</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>

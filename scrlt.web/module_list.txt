@@ -1,27 +1,27 @@
-scrlt.debug.item.mxt
-scrlt.debug.mxt
+	scrlt.debug.item.mxt
+	scrlt.debug.mxt
 	scrlt.fx.cloud.mxt
 	scrlt.fx.degrade.mxt
 	scrlt.fx.delay.mxt
-scrlt.fx.delay.tester.mxt
+	scrlt.fx.delay.tester.mxt
 	scrlt.fx.filter.mxt
 	scrlt.gen.gbang.single.mxt
-scrlt.gen.gbang.single.tester.mxt
+	scrlt.gen.gbang.single.tester.mxt
 	scrlt.gen.groove.single.mxt
-scrlt.gen.groove.single.tester.mxt
+	scrlt.gen.groove.single.tester.mxt
 	scrlt.gen.merge.mxt
-scrlt.knob.tester.mxt
-scrlt.midi.bcr.mapper.mxt
+	scrlt.knob.tester.mxt
+	scrlt.midi.bcr.mapper.mxt
 	scrlt.midi.bcr.mxt
-scrlt.midi.bcr.node.knob.mxt
-scrlt.midi.bcr.node.toggle.mxt
+	scrlt.midi.bcr.node.knob.mxt
+	scrlt.midi.bcr.node.toggle.mxt
 	scrlt.midi.bcr.top.mxt
-scrlt.midi.bcr.vfunc.node.knob.draw.mxt
-scrlt.midi.bcr.vfunc.node.knob.func.mxt
-scrlt.midi.bcr.vfunc.rack.mxt
-scrlt.midi.pcr.kbd.mxt
-scrlt.midi.pcr.mxt
-scrlt.midi.pcr.octave.mxt
+	scrlt.midi.bcr.vfunc.node.knob.draw.mxt
+	scrlt.midi.bcr.vfunc.node.knob.func.mxt
+	scrlt.midi.bcr.vfunc.rack.mxt
+	scrlt.midi.pcr.kbd.mxt
+	scrlt.midi.pcr.mxt
+	scrlt.midi.pcr.octave.mxt
 	scrlt.mixer.aux.mxt
 	scrlt.mixer.chan.mxt
 	scrlt.mixer.io.mxt
@@ -32,29 +32,29 @@ scrlt.midi.pcr.octave.mxt
 	scrlt.rack.aux.1.mxt
 	scrlt.rack.mxt
 	scrlt.rack.track.0.mxt
-scrlt.rack.track.0.tester.mxt
+	scrlt.rack.track.0.tester.mxt
 	scrlt.rack.track.1.mxt
 	scrlt.rack.track.2.mxt
 	scrlt.rack.track.3.mxt
 	scrlt.rack.track.4.mxt
-scrlt.rack.track.4.tester.mxt
+	scrlt.rack.track.4.tester.mxt
 	scrlt.rack.track.5.mxt
-scrlt.targets.chooser.knob.mxt
-scrlt.targets.chooser.toggle.mxt
-scrlt.toggle.tester.mxt
+	scrlt.targets.chooser.knob.mxt
+	scrlt.targets.chooser.toggle.mxt
+	scrlt.toggle.tester.mxt
 	scrlt.trans.mxt
-scrlt.util.0or1.mxt
-scrlt.util.0or127.mxt
-scrlt.util.CLtoSE.mxt
-scrlt.util.SEtoCL.mxt
-scrlt.util.bcrfwd.mxt
-scrlt.util.dwbp.mxt
-scrlt.util.gvratescale.mxt
-scrlt.util.gvrateunscale.mxt
-scrlt.util.octshift.mxt
-scrlt.util.op~.mxt
-scrlt.util.samplechooser.mxt
-scrlt.util.samplechooser.tester.mxt
-scrlt.util.scaleprepend.mxt
-scrlt.util.valfade.mxt
-scrlt.util.wfmodesel.mxt
+	scrlt.util.0or1.mxt
+	scrlt.util.0or127.mxt
+	scrlt.util.CLtoSE.mxt
+	scrlt.util.SEtoCL.mxt
+	scrlt.util.bcrfwd.mxt
+	scrlt.util.dwbp.mxt
+	scrlt.util.gvratescale.mxt
+	scrlt.util.gvrateunscale.mxt
+	scrlt.util.octshift.mxt
+	scrlt.util.op~.mxt
+	scrlt.util.samplechooser.mxt
+	scrlt.util.samplechooser.tester.mxt
+	scrlt.util.scaleprepend.mxt
+	scrlt.util.valfade.mxt
+	scrlt.util.wfmodesel.mxt
