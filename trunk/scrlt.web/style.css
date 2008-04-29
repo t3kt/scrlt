@@ -30,11 +30,12 @@ body {
 	position: absolute;
 	z-index:1;
 	padding-left: 10px;
-	width: 800px;
+	width: 790px;
 	height: auto;
 	left: 230px;
 	top: 70px;
 	padding-top: 10px;
+	padding-right: 10px;
 }
 #pageTitleLayer {
 	border: 2px solid #336699;
@@ -46,4 +47,18 @@ body {
 	height: 50px;
 	left: 230px;
 	top: 10px;
+}
+#contentLayer th {
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-align: left;
+	text-indent: 20px;
+	font-size: 24px;
+	border: 2px solid #336699;
+}
+#contentLayer td {
+	vertical-align: top;
+	padding-left: 10px;
 }
